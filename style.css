@@ -1,8 +1,36 @@
 * {
-    border: 1px solid grey;
+    border: 1px solid gray;
     margin: 1px;
     padding: 5px;
+ 
 }
 p {
     font-size: 20px;
+}
+.w70 {
+    width: 70%;
+}
+.w50 {
+    width: 50%;
+}
+ 
+.jobb {
+    margin-right: 0;
+    margin-left: auto;
+}
+.kozep {
+    margin-right: auto;
+    margin-left: auto;
+}
+.kekkerekitett{
+    border-radius: 3px;
+    border-color: blue;
+}
+.piroskerekitett{
+    border-radius: 5px;
+    border-color: red;
+}
+.zoldkerekitett{
+    border-radius: 10px;
+    border-color: green;
 }
