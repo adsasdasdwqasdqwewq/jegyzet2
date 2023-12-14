@@ -34,3 +34,7 @@ p {
     border-radius: 10px;
     border-color: green;
 }
+table{
+    height: 600px;
+    width: 600px;
+}
